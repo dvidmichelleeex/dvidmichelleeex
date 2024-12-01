@@ -15,9 +15,8 @@ I’m an aspiring **Data Analyst Intern** with a passion for turning data into a
 🌱 **Currently Learning:**  
 - Libraries: **Pandas, Matplotlib, SciKit-Learn, NumPy, Seaborn**
 - Languages: **Python, R, and SQL, Java**  
-- Tools: **Microsoft Excel, Jupyter Notebook, RStudio**
-- Advanced statistical techniques and data modeling.
-- Business intelligence platforms and visualization tools like **Tableau** and **Power BI**.  
+- Tools: **Microsoft Excel, Jupyter Notebook, RStudio, Tableau**
+- Advanced statistical techniques and data modeling. 
 
 ---
 
