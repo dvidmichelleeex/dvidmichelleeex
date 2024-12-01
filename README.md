@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @dvidmichelleeex  
+# 👋 Hi, I’m Michelle David 
 
 🌟 **About Me:**  
 I’m an aspiring **Data Analyst Intern** with a passion for turning data into actionable insights. Currently, I’m in my penultimate year at **Macquarie University**, majoring in **Data Science** and **Information Systems and Business Analysis**.  
