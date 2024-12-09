@@ -29,6 +29,6 @@ I’m an aspiring **Data Analyst Intern** with a passion for turning data into a
 📫 **How to Reach Me:**  
 - 📧 Email: [dvidmichelleeex@gmail.com](mailto:dvidmichelleeex@gmail.com)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/dvidmichelleee/](https://www.linkedin.com/in/dvidmichelleee/)  
-- 🌐 Personal Projects: 
+- 🌐 Personal Projects: [https://github.com/dvidmichelleeex/PersonalProjects](https://github.com/dvidmichelleeex/PersonalProjects)
 
 ---
